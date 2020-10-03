@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimin980921)](https://github.com/Jimin980921/github-readme-stats)
+![Jimin's github stats](https://github-readme-stats.vercel.app/api?username=Jimin980921&count_private=true)
 
 <!--
 **Jimin980921/Jimin980921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
